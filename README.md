@@ -1,3 +1,3 @@
 # Ember Todo App
 
-Creating the [*TodoMVC App][http://todomvc.com/] using Ember.js
+The [*TodoMVC app][http://todomvc.com/] using Ember.js
